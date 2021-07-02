@@ -1,0 +1,104 @@
+- Vanilla Ice Readme -
+
+
+  = Q & A =
+
+
+ Q : Why Vice? 
+
+ A : Well I don't know. In actuality I hate this character from my time playing competitively in HFTF. I guess I just wanted to
+     see how I could fit a completely bullshit character in a CvS environment.
+
+
+ Q : What's his playstyle like?
+
+ A : Vice is crippled heavily from his top tier appearance in HFTF. He's now a mainly neutral based character like Khan with solid
+     buttons, a strong Stand On mode, and very damaging combos.
+
+
+ Q : How do you play Vice?
+
+ A : Vice is a neutral heavy character that relies on good buttons and a varied approach with execution heavy combos to deal damage.
+     In a sense he's more or less a more balanced version of his HFTF self. He has a good blend of offensive options in relatively
+     safe blockstrings and good buttons, and defensive options in a strong Stand On mode that negates chip and gives him more defense.
+     There are gaps in his playstyle however, as unlike in source, he has trouble actually opening the opponent up, and doesn't have
+     any strong mixups. Any character with strong defensive options are going to be troublesome for Vice as he will be unable to get
+     any sort of substantial damage. With characters that have weak defensive options, they will be completely eaten by Vice's pokes
+     and combos. On the topic of his pokes, he has plenty that suits his neutral. st.MP is a great anti-air and jump stuffer, st.HP
+     and st.HK are great whiff punishers, S.cr.HP is the primary stand on poke, S.st.MK/S.st.HP are the go to stand on anti airs,
+     S.j.MK is the go to stand on air-to-air, j.HP is the go-to jump in, j.MK is a good cross-up tool, j.HK is the best stand off air
+     to air, and once he uses all these tools effectively, his neutral becomes quite difficult to challenge. On top of his solid neutral,
+     his combos are as expected execution heavy and damaging. Using tandem, you can net big damage off of the optimal combo starters.
+     A 1.5 bar combo optimally nets ~30% off of a stand on confirm, and around ~27% from a stand off one. Even with one bar you can get
+     ~25% stand off and ~23% stand on. Tandem is very much nerfed and isn't Vice's most damaging tool anymore, however it still works
+     for Vice very well. Much like in source the execution and many windows to get these combos is tight. Another thing to note is his
+     Stand On. Stand On Vice is overall a better version of Vice. While he's much floatier, his range, damage and defense are increased,
+     however his Stand guage is relatively weak and can be broken easily with good pokes and short combos. Stand On Vice is more of a 
+     glass cannon compared to Stand Off. Knowing how and when to utilize both his Stand On and Stand Off is crucial to getting down
+     the neutral of Vice. Flexibility is key, as while Stand On Vice is much better than Stand Off, the weak stand guage of Stand On
+     Vice holds too much risk to be using Stand On exclusively over Stand Off. If you can flexibly fluctuate between Stand On and Stand
+     Off while maintaining good neutral, Vice will be doing just fine.
+
+
+ Q : What's this extra Vice mode? Why does he play and look different?
+
+ A : This mode is known as Boss Ice, or Bice for short. Bice was originally a non playable character that could only be accessed in HFTF's
+     debug mode. He's fought by the Stardust Crusaders in the story mode of HFTF, and plays much like a video game boss. This time around
+     he's more buffed than nerfed as Bice was a complete downgrade from normal Vice in source. His buttons have really good disjoint, damage,
+     priority and uses, and his mobility via dashing is also kept from source. His specials are still relatively easy to avoid however if
+     you get hit Bice will have I-frames throughout his recovery and landing from the special. He also falls faster than in source making
+     it difficult to punish him, and while it's almost random as to where he appears on the screen in source, in this version once Bice is
+     done with his special he will always appear at the center of the screen. He only has two supers that are treated as level 3's but only
+     take 1 bar, both are pretty easy to avoid but if they land they do 35% damage. Also Bice will get full invincibility on the startup of
+     his specials and supers, you cannot punish him until he's falling down after using it. Since he has 0 hurtboxes during the startup he
+     is unable to be hit or thrown, however due to the relatively easy path to punishing the specials and supers, simply spamming them to
+     be near impossible to hit will not really do anything to win. His playstyle is similar if not identical to normal Vice, and that is to
+     play good neutral and use good buttons to win. 
+
+
+
+  = VICE BEGINNER COMBOS =
+
+ *the S. in the notation means you have to be Stand On to perform the combo. There is a section
+  on the Stand mechanic in the movelist file.
+
+ cr.LP, cr.LP, st.HP xx MP.Cream Hop
+
+ S.cr.LP, S.cr.LP, s.cr.HP xx S.LP.Cream Hop
+
+ st.HP xx EX.Cream Hop, st.HP xx Raging Vengeance
+
+ cr.LP, cr.LP, st.HK xx lvl.1 tandem (cr.LP,cr.MP,cr.HP), st.HP xx MP.Cream Hop
+
+ S.cr.LP, S.cr.LP, S.cr.HP xx S.EX.Cream Hop, S.cr.LP, S.cr.HP xx S.LP.Cream Hop
+
+
+  = VICE CUSTOM COMBOS =
+
+ Install, repeat (st.HP xx st.HK), Raging Vengeance
+
+
+  = BICE BEGINNER COMBOS =
+
+ st.HP, st.HK, j.HP
+
+ S.st.LP xx S.st.LP xx S.st.HP
+
+ S.cr.LP xx S.cr.LP xx S.st.LP xxx S.st.HK
+
+ S.st.LP xx S.st.LP xx S.st.HP xx lvl.1 tandem (cr.LP,cr.MP,cr.HP), st.HP, S+st.LP xx S.st.HP
+
+ st.HP, S.st.HP xx lvl.1 tandem (LP,MP,HP)
+
+
+  = BICE CUSTOM COMBOS =
+
+ Install, repeat (S.st.HP xx S.st.HK), Void Break
+
+
+ = CREDITS =
+
+  Warusaki3 - SFF (Extra CS done by Troy99)
+  additional sprite rips (unused intro, bice sprites) - Me
+
+ Joey, Dawn De Era, Dronk - Feedback

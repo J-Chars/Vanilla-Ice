@@ -1,0 +1,291 @@
+=== VANILLA ICE MOVESET ===
+
+
+=== Button Scheme ===
+
+D - Down
+U - Up
+B - Back
+F - Forward
+DF - Down+Forward
+DB - Down+Back
+LP - Light Punch
+MP - Medium Punch
+HP - Hard Punch
+LK - Light Kick
+MK - Medium Kick
+HK - Hard Kick
+P - Punch
+K - Kick
+2P - 2 Punches (i.e. LP+MP, LP+HP, MP+HP)
+2K - 2 Kicks (i.e. LK+MK, LK+HK, MK+HK)
+
+
+=== Disclaimer ===
+
+-Before reading the movelist, always assume that all the moves are ground only, unless it is said otherwise.
+
+-Always assume the player is facing to the right.
+
+
+=== STAND ===
+
+The Stand mechanic is an interesting one. When pressing 2 kicks of any kind, you will be in "Stand On" mode, and pressing
+two kicks when Stand On will put you in Stand Off. When Stand On, you will generally recieve better attacks, damage, but recieve 
+less combo possibility. Stand On will increase your defense by 20% and also you will negate all chip damage, and blocking Stand On 
+will not affect your guard meter. The caveat here is that you have a unique Stand meter. When Stand On it will decrease when 
+you take a hit or block. Once it's at 0, you will be put in a guard crush type state known as a "Stand Crash" where you are vulnerable 
+for a second. However, when Stand Off, your Stand Guage slowly refills, and takes ~3 seconds to refill from 0. If you're smart 
+you will most likely not have your Stand Guage that low. Each character with this Stand mechanic has their own Stand Guage strength. 
+Some will be strong and be difficult to Stand Crash, others can be crashed in just a few hits. It adds a new dimension to the character.
+
+
+===================
+CANCELLABLE NORMALS
+===================
+
+These are the cancel properties of his normals.
+
+Sp = Special
+Su = Super
+
+- LP (Sp + Su)
+- MP (Sp + Su)
+- HP (Sp + Su)
+- LK (Sp + Su)
+- MK (Sp + Su)
+- HK (Sp + Su)
+- cr.LP (Sp + Su)
+- cr.MP (Sp + Su)
+- cr.HK (Sp + Su)
+- cr.LK (Sp + Su)
+- cr.MK (Sp + Su)
+- cr.HK (none)
+
+- S.LP (Sp + Su)
+- S.MP (Sp + Su)
+- S.HP (Sp + Su)
+- S.LK (Sp + Su)
+- S.MK (Sp + Su)
+- S.HK (Sp + Su)
+- S.cr.LP (Sp + Su)
+- S.cr.MP (Sp + Su)
+- S.cr.HK (Sp + Su)
+- S.cr.LK (Sp + Su)
+- S.cr.MK (Sp + Su)
+- S.cr.HK (none)
+
+=== Moveset ===
+
+
+= System =
+
+- Dodge -
+Command: LP+LK
+- Properties -
+=Avoids all attacks
+=Cannot avoid throws
+
+- Roll -
+Command: F/B + LP+LK
+- Properties -
+=Avoids all attacks
+=Cannot avoid throws
+
+- Power Up -
+Command: (Hold) MP+MK
+- Properties -
+=Charges Meter
+
+- Advancing Guard -
+Command: (While in Guardstun) LP+LK
+- Properties -
+=Pushes the opponent back
+
+- Counter Attack -
+Command: (While in Guardstun) MP+MK
+Meter Cost: 1/2
+- Properties -
+=Guaranteed Counter-hit
+
+- Counter Movement -
+Command: (While in Guardstun) F/B + MP+MK
+Meter Cost: 1/2
+- Properties -
+=Avoids attacks
+
+- Custom Combo -
+Command: LP+LK
+Meter Cost: 1-3
+- Properties -
+=Allows the player to cancel any attack they want
+=Start-up invulnerability
+=Meter determines length of custom combo
+
+=== COMMAND NORMALS ===
+
+-none
+
+=== SPECIALS ===
+
+
+= NORMAL ICE =
+
+
+- Void Ball -
+Command: D, DF, F, P (2P for EX)
+-Properties-
+=Hard Knockdown, No Recovery (HP Only)
+=Juggleable (EX Only)
+=Wall Bounce (EX S.Off Only)
+*when done stand on, EX Void Ball has an extra 8 way directional followup, just hold the direction
+you want to go next, and Cream will follow. This followup can be juggled off of in certain instances.
+
+- Cream Hop -
+Command: D, DB, B, P (2P for EX)
+-Properties-
+=Hard Knockdown, No Recovery (HP Only)
+=Reset (EX Only)
+
+- Blood Sacrifice -
+Command: F, DF, D, DB, B (2P for EX)
+-Properties-
+=Unblockable Command Grab
+=Hard Knockdown, No Recovery
+=Stand Off Only
+
+- Cream Smash -
+Command: (hold) D, U, P (2P for EX)
+-Properties-
+=Hard Knockdown, No Recovery
+=Ground Bounce (EX Only)
+=Stand On Only
+
+
+= BOSS ICE =
+
+*note that Bice has no EX specials
+
+- Straight Void -
+Command: D, DF, F, P
+-Properties-
+=Hard Knockdown, No Recovery
+=Unblockabe
+*Bice starts to the left of the screen, then goes right, button determines the height from which
+he starts from, LP is low, MP is middle, HP is high.
+
+- Straight Void (Reverse) -
+Command: D, DB, B, P
+-Properties-
+=Hard Knockdown, No Recovery
+=Unblockabe
+*Bice starts to the right of the screen, then goes left, button determines the height from which
+he starts from, LP is low, MP is middle, HP is high.
+
+- Square Curve Void -
+Command: F, D, DF, LP
+-Properties-
+=Hard Knockdown, No Recovery
+=Unblockabe
+*Bice starts on the top left corner of the screen, then goes down in a square curve.
+
+- Parabola Curve Void -
+Command: F, D, DF, MP
+-Properties-
+=Hard Knockdown, No Recovery
+=Unblockabe
+*Bice starts on the top left corner of the screen, then goes to the right, then curves back to the left
+in a parabola path.
+
+- Sine Curve Void -
+Command: D, DF, F, P
+-Properties-
+=Hard Knockdown, No Recovery
+=Unblockabe
+*Bice starts to the left of the screen, then moves slowly to the right in a sine curve or "worm" pattern.
+
+- Square Curve Void (Reverse) -
+Command: B, D, DB, LP
+-Properties-
+=Hard Knockdown, No Recovery
+=Unblockabe
+*Bice starts on the top right corner of the screen, then goes down in a square curve.
+
+- Parabola Curve Void (Reverse) -
+Command: B, D, DB, MP
+-Properties-
+=Hard Knockdown, No Recovery
+=Unblockabe
+*Bice starts on the top right corner of the screen, then goes to the left, then curves back to the right
+in a parabola path.
+
+- Sine Curve Void (Reverse) -
+Command: B, D, DB, P
+-Properties-
+=Hard Knockdown, No Recovery
+=Unblockabe
+*Bice starts to the right of the screen, then moves slowly to the left in a sine curve or "worm" pattern.
+
+
+=== SUPERS ===
+
+
+- Tandem -
+Command: D, DB, B, D, DB, B, K
+Meter Cost: 1, takes more depending on button
+
+The tandem is a unique super to active Stand users in JoJo. When you do the command, you're put in a super pause state
+and when you input buttons during this super pause, the Stand comes out and plays back those inputs you do. For example,
+you do tandem and input LP, MP, and HP in that order, the Stand will come out and do LP, MP and HP. Tandems have levels,
+LK being level 1, MK being level 2, and HK being level 3, and they each take 1, 2, and 3 bars respectively. Depending on
+your tandem level, the amount of time you get to input stuff will vary, with level 1 being around 0.5 seconds, level 2
+being around 0.8 seconds, and level 3 being around 1.1 seconds. Optimally, you will have 3 inputs in level 1, 9 inputs
+in level 2, and 15 in level 3. You can input more if you're fast enough, but optimally that's the most you have.
+
+
+== NORMAL ICE ==
+
+- Raging Vengeance -
+Command: D, DF, F, D, DF, F, P
+Meter Cost: 1
+-Properties-
+=Hard Knockdown, No Recovery
+*you can hold punch to "charge" the super. When fully charged, the super goes an even farther distance
+and instead of doing 20%, does 25% damage.
+
+- Dark Scatter -
+Command: D, DF, F, D, DF, F, K
+Meter Cost: 1
+-Properties-
+=Hard Knockdown, No Recovery
+=Stand On Only
+
+- Void Pinball -
+Command: D, DB, B, D, DB, B, P
+Meter Cost: 2
+-Properties-
+=Hard Knockdown, No Recover
+
+- Void Destruction -
+Command: B, DB, D, DF, F, D, DF, F, P
+Meter Cost: 3
+-Properties-
+=MAX Super (50% Damage)
+=Hard Knockdown, No Recovery
+
+
+== BOSS ICE ==
+
+- Decisive Kill -
+Command: D, DF, F, D, DF, F, P
+Meter Cost: 1
+-Properties-
+=Unblockable
+=Hard Knockdown, No Recovery
+
+- Void Break -
+Command: D, DB, B, D, DB, B, P
+Meter Cost: 1
+-Properties-
+=Unblockable
+=Hard Knockdown, No Recovery

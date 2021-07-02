@@ -1,0 +1,112 @@
+;-----------------------
+;-| ICE by JtheSaltyy |-
+;-----------------------
+;  - CONSTANTS FILE -
+;-----------------------
+
+;================================
+
+[Data]
+life = 1050
+attack = 100
+defence = 100
+fall.defence_up = 52
+liedown.time = 57
+airjuggle = 15
+sparkno = -1
+guard.sparkno = S7001
+KO.echo = 0
+volume = 100
+IntPersistIndex = 0
+FloatPersistIndex = 0
+
+;================================
+
+[Size]
+xscale = 0.833		
+yscale = 1.07		
+ground.back = 16		
+ground.front = 16		
+air.back = 15		
+air.front = 15	
+height = 65			
+attack.dist = 160	
+proj.attack.dist = 90	
+proj.doscale = 0		   
+head.pos = 2, -111
+mid.pos = 8, -72		
+shadowoffset = 0		
+draw.offset = 0,0		
+
+;================================
+
+[Velocity]
+walk.fwd  = 2.82343242
+walk.back = -2.4892573
+run.fwd  = 8.5125, 0		
+run.back = -8.5125, 0			
+jump.neu = 0, -9 
+jump.back = -2.834554, -11.155
+jump.fwd = 2.9523452, -11.155
+runjump.back = -5.1561,-9.455
+runjump.fwd = 5.1561,-9.455	
+
+;================================
+
+[Movement]
+airjump.num = 0		
+airjump.height = 28		
+yaccel = 0.59		
+stand.friction = .85		
+crouch.friction = .82
+air.gethit.groundrecover.ground.threshold = -20
+air.gethit.groundrecover.groundlevel = 10
+air.gethit.airrecover.threshold = -1
+air.gethit.airrecover.yaccel = 0.35
+
+;================================
+
+[Quotes]
+
+;=[ VICE QUOTES ]=
+
+victory1 = "I'll quell your arrogant belief that you can stop Lord DIO."
+victory2 = "Now you'll be sent into a void that leads into a place even I don't know."
+victory3 = "You have no power when you're in my domain."
+victory4 = "I could have swallowed you up in my dark dimension, but you deserve much worse."
+victory5 = "I will not die! There's nothing you can do to stop me from exterminating any who oppose lord DIO!!"
+victory6 = "Lord DIO entrusted me in disposing any interlopers, and you will be no exception."
+victory7 = "Bastard, I'll kick you to death!"
+victory8 = "I'll let my dark dimension take care of you now."
+victory9 = "There's nothing that you can do to delay your end."
+victory10 = "I will kill you without fail."
+victory11 = "I'll inform Lord DIO that I have wiped out the interlopers."
+victory12 = "Don't think that you can defeat Lord DIO when you can't even defeat me."
+victory13 = "When fearing the unknown, you don't know what lies ahead of you. Now you will know."
+victory14 = "Disposing of pitiful scum such as you will please Lord DIO."
+victory15 = "Don't think about escaping, you're now as good as dead."
+
+;=[ BOSS ICE QUOTES ]=
+
+victory16 = "You're finished."
+victory17 = "Be thankful, I'll make your death quick."
+victory18 = "I will never fail Lord DIO, therefore I won't hesitate to eliminate you."
+victory19 = "You've already decided your fate the moment you decided to interfere with Lord DIO."
+victory20 = "Do you think I care for your cries of mercy? I am merely punishing you for your wrongdoings."
+
+;=[ SPECIAL QUOTES ]=
+
+; vs. Polnareff
+victory21 = "My task of ending the Joestars starts with you, Polnareff. Die!"
+
+; vs. Iggy
+victory22 = "Shitty mutt, You made me destroy an image of Lord DIO! For that your death will be slow and painful!!"
+
+; vs. Jotaro
+victory23 = "Hmph. Lord DIO made you out to be a lot stronger than what I thought."
+
+; vs. Avdol
+victory24 = "Begone, fortune teller. I'll have you scattered across my dark dimension now."
+
+; vs. DIO
+victory25 = "Lord DIO, I believe that I'm ready to exterminate Joestar's party now."
